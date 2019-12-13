@@ -4,10 +4,15 @@ color: red
 .navblu{
 background: #87CEFA
 }
-a{
-heigth: 20px
-}
+/* a{
+height: 20px
+} */
 body{
 background: rgba(255,228,196)
 }
 
+.nav-item > a {
+    border-radius: 20px;
+height: 25px;
+margin: 0 auto;
+}
