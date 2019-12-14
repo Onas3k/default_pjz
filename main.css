@@ -12,7 +12,15 @@ background: rgba(255,228,196)
 }
 
 .nav-item > a {
-    border-radius: 20px;
-height: 25px;
+    border-radius: 5px;
+    
+height: 28px;
 margin: 0 auto;
+/* line-height: 0.5px; */
+}
+
+.mark1{
+    border: 4px solid purple;
+}
+#slidecontainer > a{ width: 50%;
 }
